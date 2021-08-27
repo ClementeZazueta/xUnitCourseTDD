@@ -1,0 +1,63 @@
+{
+  "ConsoleApp1.dll": {
+    "C:\\Users\\carlos.zazueta\\source\\repos\\ConsoleApp1\\ConsoleApp1\\DefaultPasswordValidator.cs": {
+      "ConsoleApp1.DefaultPasswordValidator": {
+        "System.Boolean ConsoleApp1.DefaultPasswordValidator::Validate(System.String)": {
+          "Lines": {
+            "9": 4,
+            "10": 5,
+            "11": 14,
+            "13": 2,
+            "14": 4
+          },
+          "Branches": [
+            {
+              "Line": 10,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 10,
+              "Offset": 12,
+              "EndOffset": 18,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 11,
+              "Offset": 60,
+              "EndOffset": 62,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 11,
+              "Offset": 60,
+              "EndOffset": 66,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\carlos.zazueta\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs": {
+      "ConsoleApp1.Program": {
+        "System.Void ConsoleApp1.Program::Main(System.String[])": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
